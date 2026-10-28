@@ -1,0 +1,19 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Keep the original order-level dataset local
+Amazon_Order_Status_Prediction.xlsx
